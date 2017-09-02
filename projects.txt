@@ -1,0 +1,8 @@
+1. Google Maps project to list all cycle repair shops in bangalore with GPS data
+(Use existing maps methods as much as possible to be used as a plugin module with low dependency in the future)
+2. Search Aggregator or price aggregrator
+3. Job Search aggregator
+4. Tracing and debugging
+5. Implementation of all possible metasploit exploits on a VM, through django
+
+
